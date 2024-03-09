@@ -7,3 +7,10 @@
 ## nvidia-driver
 
 Ref: https://blog.csdn.net/huiyoooo/article/details/128015155
+
+## swich gdm3 to lightdm
+
+```
+sudo apt install lightdm
+sudo dpkg-reconfigure gdm3
+```
